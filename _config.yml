@@ -13,14 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+locale: "en-US"
 title: Robots in Heels
+name: "Jackie Gerstein"
 email: gersteinj@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  It's a website.
+  It's a website. I'll probably update it.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: RobotsInHeels
-github_username:  gersteinj
+twitter:
+  username: "RobotsInHeels"
 
 # Build settings
 markdown: kramdown
@@ -28,12 +30,22 @@ theme: minimal-mistakes-jekyll
 minimal_mistakes_skin    : "mint" # "air", "contrast", "dark", "dirt", "mint", "sunrise"
 plugins:
   - jekyll-feed
+teaser: /assets/img/default-teaser-billy-huynh.jpg
 
 # Outputting
 permalink: /:year/:month/:day/:title/
 paginate: 5
 paginate_path: /page:num/
 timezone: "America/New_York"
+
+# Site Author
+author:
+  name: "Jackie Gerstein"
+  bio: "Not Jackie Gerstein, Ed.D."
+  location: "New Jersey"
+  email: gersteinj@gmail.com
+  github: gersteinj
+  twitter: robotsinheels
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
