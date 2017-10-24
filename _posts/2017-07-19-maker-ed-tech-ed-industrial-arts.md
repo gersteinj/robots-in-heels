@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Maker Ed, Tech Ed, and Industrial Arts
 categories: education
 tags: CTE maker-ed

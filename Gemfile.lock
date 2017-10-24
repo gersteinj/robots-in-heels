@@ -99,10 +99,11 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll (~> 3.6.1)
+  jekyll-data
   jekyll-feed (~> 0.6)
   minima (~> 2.0)
   minimal-mistakes-jekyll
   tzinfo-data
 
 BUNDLED WITH
-   1.15.4
+   1.16.0.pre.3
