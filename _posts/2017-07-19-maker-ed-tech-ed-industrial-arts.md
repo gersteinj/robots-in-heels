@@ -4,7 +4,7 @@ title: Maker Ed, Tech Ed, and Industrial Arts
 categories: education
 tags: CTE maker-ed
 ---
-![MHS Makerspace]({{ "/assets/img/makerspace.jpg" }})
+![MHS Makerspace]({{ "/img/makerspace.jpg" }})
 
 Twitter brought me back to blogging with a question about maker ed and vocational education.
 
@@ -25,12 +25,12 @@ Over time, the world changed faster than Industrial Arts classes and curricula. 
 
 Technology Education grew out of the older Industrial Arts programs in a time period with far more diverse and advanced technology than the time period that had produced Industrial Arts. Industrial Arts programs generally focus on a relatively narrow (but interesting!) area of technology based on what was state of the art when these programs first started - mainly technical drawing (or CAD in more modern programs) and various courses that fall into the 'shop class' category, such as wood shop, metal shop, welding, and auto/small-engine repair. Tech ed curricula are harder to list, because there are so many different courses. Anything that can be considered technology can be part of Tech Ed - the traditional Industrial Arts courses are included, but so are programming, graphics, robotics, and just about anything else you could imagine.
 
-![Cutting parts on a CNC router]({{ "/assets/img/shopbot-cutting.jpg" }})
+![Cutting parts on a CNC router]({{ "/img/shopbot-cutting.jpg" }})
 
 
 Industrial Arts was created to prepare students for the world ahead of them - one that was changing quickly, but not so quickly that schools couldn't see and prepare for many of the coming changes. Tech Ed came about in a time when change was becoming more and more rapid, to the point where it was harder to know what would come next, and it was important to teach students to learn independently. This is essentially what Maker Ed is as well.
 
-![3D Printed Planter]({{ "/assets/img/planter.jpg" }})
+![3D Printed Planter]({{ "/img/planter.jpg" }})
 
 What I see in Maker Ed is Technology Education's next evolution - accessibility to as many people as possible, and integration everywhere. This doesn't mean Tech Ed goes away - there is value in more formal, structured technology courses as well. More and more of my students are coming into my classes with hands-on experience through maker-focused programs at libraries and summer camps, and these students are so much better prepared and more excited for my classes.
 
