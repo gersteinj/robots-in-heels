@@ -22,7 +22,7 @@ The long answer requires a bit of educational history. The traditional vocationa
 Over time, the world changed faster than Industrial Arts classes and curricula. Technical drawing and traditional machining, although still useful, were no longer the high-tech, modern skills they once were. Some schools were continuing to update their programs with more recent technology, but Industrial Arts overall needed an update, and that came in the form of Technology Education
 
 <figure>
-    <a href="https://commons.wikimedia.org/wiki/File%3ASCCC_Wood_Construction_Facility_-_cabinetry_shop_01.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/SCCC_Wood_Construction_Facility_-_cabinetry_shop_01.jpg/512px-SCCC_Wood_Construction_Facility_-_cabinetry_shop_01.jpg">
+    <a href="https://commons.wikimedia.org/wiki/File%3ASCCC_Wood_Construction_Facility_-_cabinetry_shop_01.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/SCCC_Wood_Construction_Facility_-_cabinetry_shop_01.jpg/512px-SCCC_Wood_Construction_Facility_-_cabinetry_shop_01.jpg"></a>
     <figcaption><a title="User:Jmabel" href="/wiki/User:Jmabel">Joe Mabel</a> [<a href="http://www.gnu.org/copyleft/fdl.html">GFDL</a> or <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA-3.0</a>], <a href="https://commons.wikimedia.org/wiki/File%3ASCCC_Wood_Construction_Facility_-_cabinetry_shop_01.jpg">via Wikimedia Commons</a></figcaption>
 </figure>
 
@@ -34,6 +34,7 @@ Technology Education grew out of the older Industrial Arts programs in a time pe
 Industrial Arts was created to prepare students for the world ahead of them - one that was changing quickly, but not so quickly that schools couldn't see and prepare for many of the coming changes. Tech Ed came about in a time when change was becoming more and more rapid, to the point where it was harder to know what would come next, and it was important to teach students to learn independently. This is essentially what Maker Ed is as well.
 
 ![3D Printed Planter]({{ "/img/planter.jpg" }})
+
 
 What I see in Maker Ed is Technology Education's next evolution - accessibility to as many people as possible, and integration everywhere. This doesn't mean Tech Ed goes away - there is value in more formal, structured technology courses as well. More and more of my students are coming into my classes with hands-on experience through maker-focused programs at libraries and summer camps, and these students are so much better prepared and more excited for my classes.
 
