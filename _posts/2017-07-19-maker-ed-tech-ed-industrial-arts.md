@@ -5,6 +5,7 @@ categories: education
 tags: CTE maker-ed
 header:
   image: /img/makerspace.jpg
+  teaser: /img/planter.jpg
 ---
 <!-- ![MHS Makerspace]({{ "/img/makerspace.jpg" }}) -->
 
