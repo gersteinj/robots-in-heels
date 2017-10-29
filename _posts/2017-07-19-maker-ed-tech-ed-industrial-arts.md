@@ -4,11 +4,10 @@ title: Maker Ed, Tech Ed, and Industrial Arts
 categories: education
 tags: CTE maker-ed
 header:
-  image: /img/makerspace.jpg
-  teaser: /img/planter.jpg
+  overlay_image: /img/makerspace.jpg
+  overlay_filter: .6
+  caption: MHS Makerspace
 ---
-<!-- ![MHS Makerspace]({{ "/img/makerspace.jpg" }}) -->
-
 Twitter brought me back to blogging with a question about maker ed and vocational education.
 
 <blockquote class="twitter-tweet" data-lang="en">
