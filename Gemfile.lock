@@ -104,6 +104,7 @@ DEPENDENCIES
   jekyll-archives
   jekyll-data
   jekyll-feed (~> 0.6)
+  jekyll-sitemap
   minima (~> 2.0)
   minimal-mistakes-jekyll
   tzinfo-data

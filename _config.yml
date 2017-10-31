@@ -30,6 +30,7 @@ theme: minimal-mistakes-jekyll
 minimal_mistakes_skin    : "mint" # "air", "contrast", "dark", "dirt", "mint", "sunrise"
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 teaser: /img/default-teaser-billy-huynh.jpg
 
 # Outputting
