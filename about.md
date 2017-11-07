@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I'm a technology teacher at Union County Magnet High School, a STEM-focused magnet school drawing from every town in Union County, NJ. My current courses focus on programming, robotics, electric vehicles, 3D design and modeling, and digital fabrication.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+In addition to teaching my classes, I run the school's makerspace and am a faculty advisor for our district's robotics team, [FRC Team 1257](http://team1257.org).
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Outside of work, I keep busy with projects such as Power Racing.
 
-
-[jekyll-organization]: https://github.com/jekyll
+To address the ongoing confusion, I am not [Jackie Gerstein, Ed.D](https://usergeneratededucation.wordpress.com/).

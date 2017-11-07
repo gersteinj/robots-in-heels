@@ -34,11 +34,11 @@ kramdown:
 #
 owner:
   name: Jackie Gerstein
-  avatar: leonids-logo.png
+  avatar: avatar.jpg
   job: "Technology teacher & tinkerer"
   bio: "A technology teacher, tinkerer, and robotics mentor. Not Jackie Gerstein, Ed.D."
   email: gersteinj@gmail.com
-  disqus-shortname: nonameyet
+  disqus-shortname: #shortname
   twitter: robotsinheels #username
   facebook: #username
   google:
