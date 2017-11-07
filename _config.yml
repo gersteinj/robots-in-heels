@@ -6,7 +6,7 @@
 title: Robots in Heels
 email: gersteinj@gmail.com
 description: Website for Jackie Gerstein.
-url: http://localhost:4000 # the base hostname & protocol for your site
+url: http://robotsinheels.com # the base hostname & protocol for your site
 keywords: ["Education", "Open source", "Teaching", "Technology"]
 
 #
@@ -18,7 +18,7 @@ timezone:          America/New_York
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
-permalink:         /articles/:year/:month/:day/:title
+permalink:         /:year/:month/:day/:title
 
 kramdown:
   auto_ids: true
