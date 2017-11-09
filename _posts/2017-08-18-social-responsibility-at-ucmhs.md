@@ -2,8 +2,8 @@
 layout: post
 title: Social Responsibility at UCMHS
 excerpt: "Presentation from NJ Maker Summit about social responsiblity at UCMHS"
-categories: [human-centered design, social responsibility, education]
-tags: [projects, presentation]
+categories: [human-centered design, social responsibility, education, slide decks]
+tags: [projects]
 image:
   feature: pavan-emma.jpg
   credit: jackie gerstein
