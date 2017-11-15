@@ -3,7 +3,7 @@ layout: post
 title: Tech Tools - Introduction
 categories: [tech tools]
 tags: [tools, guides, tutorial, coding]
-excerpt: "Introduction to an upcoming series on tech tools I like"
+excerpt: "Introduction to an upcoming series on tech tools I find useful."
 image:
   feature: code-header-luca-bravo.jpg
   credit: Luca Bravo
