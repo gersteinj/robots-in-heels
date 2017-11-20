@@ -15,7 +15,7 @@ I tend to use a lot of open source tools, and the guides to using them are usual
 
 Some of the things I'll be covering:
 
-* Markdown - A simple way to produce formatted documents from plain text files. Used for the core of a lot of other tools as well
+* [Markdown](/2017/11/17/markdown) - A simple way to produce formatted documents from plain text files. Used for the core of a lot of other tools as well
 * Reveal.js - Create slides from text files. Uses Markdown and/or HTML
 * Git - Revision history for everything, not just documents created through MS Office or Google Apps
 * Jekyll - Create webpages from Markdown files. Easy to manage through GitHub
