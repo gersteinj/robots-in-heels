@@ -5,7 +5,7 @@ categories: [tech tools]
 tags: [tools, guides, tutorial, coding]
 excerpt: "Introduction to an upcoming series on tech tools I find useful."
 image:
-  feature: https://source.unsplash.com/XJXWbfSo2f0/800x300
+  feature: https://source.unsplash.com/XJXWbfSo2f0/860x572
   credit: Luca Bravo
   creditlink: https://unsplash.com/photos/XJXWbfSo2f0
 ---
