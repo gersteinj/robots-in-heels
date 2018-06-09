@@ -9,3 +9,4 @@ image:
   credit: Jackie Gerstein
   creditlink: http://robotsinheels.com
 ---
+Of all the machines in my space, the one that gets the most comments is probably the CNC router. It makes sense - the router is by far the biggest machine I have, and it can look intimidating.
