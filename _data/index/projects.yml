@@ -1,4 +1,0 @@
-- name: Text to Images
-  descr: "A tool for generating images from a list of words, intended to help teachers use their own word lists for digital magnetic poetry."
-  image: /img/tti.jpg
-  github: https://github.com/gersteinj/text_to_images

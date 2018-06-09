@@ -1,67 +1,113 @@
+# Welcome to Jekyll!
 #
-###################################
-# Site wide configuration
-####################################
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
 #
-title: Robots in Heels
-email: gersteinj@gmail.com
-description: Website for Jackie Gerstein.
-url: # the base hostname & protocol for your site
-keywords: ["Education", "Open source", "Teaching", "Technology"]
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-#
-###################################
-# Jekyll configuration
-####################################
-#
-timezone:          America/New_York
-markdown:          kramdown
-highlighter:       rouge
-excerpt_separator: <!--more-->
-permalink:         /:year/:month/:day/:title
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
 
-kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  enable_coderay: false
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-#
-###################################
-# Site Owner configuration
-####################################
-#
-owner:
-  name: Jackie Gerstein
-  avatar: avatar.jpg
-  job: "Technology teacher & tinkerer"
-  bio: "A technology teacher, tinkerer, and robotics mentor. Not Jackie Gerstein, Ed.D."
-  email: gersteinj@gmail.com
-  disqus-shortname: #shortname
-  twitter: robotsinheels #username
-  facebook: #username
-  google:
-    plus: #username
-    analytics: 
-    verify:
-    ad-client:
-    ad-slot:
-  bing-verify:
-  github: gersteinj #username
-  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: jacquelinegerstein #username
-  xing: #username
-  instagram: #username
-  lastfm: #username
-  tumblr: #username
-  pinterest: #username
-  foursquare: #username
-  steam: #username
-  dribbble: #username
-  youtube: #username
-  soundcloud: #username
-  weibo: #username
-  flickr: #username
-  codepen: #username
-  telegram: #username
+
+theme_settings:
+  # Meta
+  title:    Robots In Heels
+  avatar:   assets/img/avatar.jpg
+  favicon:  assets/favicon.ico
+  gravatar: # email md5 hash
+  description: Jackie Gerstein's website
+
+  # Header and footer text
+  header_text:  <p>Always use the right tool for the job.</p><p>The right tool is always a hammer.</p><p>Anything can be a hammer</p>
+  header_text_feature_image: assets/img/header.jpg
+  footer_text: Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap.</a> Header photo by <a href="https://unsplash.com/@mr_sherez">Adam Sherez</a> on <a href="https://unsplash.com/">Unsplash</a>
+
+  # Icons
+  rss: false
+  email_address:  "gersteinj@gmail.com"
+  behance:
+  bitbucket:
+  dribbble:
+  facebook:
+  flickr:
+  gitlab:
+  github: "gersteinj"
+  google_plus:
+  instagram:
+  linkedin:  # Full URL
+  pinterest:
+  reddit:
+  soundcloud:
+  stack_exchange:  # Full URL
+  steam:
+  tumblr:
+  twitter: "RobotsInHeels"
+  wordpress:
+  youtube:
+  
+  # Scripts/features
+  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  disqus_shortname:
+  katex: true # Enable if using math markup
+  portfolio: false
+  search: true
+  tags: true
+
+  # Localization strings
+  str_follow_on: "Follow on"
+  str_rss_follow: "Follow RSS feed"
+  str_email: "Email"
+  str_next_post: "Next post"
+  str_previous_post: "Previous post"
+  str_next_page: "Next"
+  str_previous_page: "Prev"
+  str_continue_reading: "Continue reading"
+  str_javascript_required_disqus: "Please enable JavaScript to view comments."
+
+  # Colours, typography and padding
+  # Open the "_sass > base" folder, and open "_variables.scss"
+  google_fonts: "Source+Sans+Pro:400,700,700italic,400italic"
+
+  # Post navigation
+  post_navigation: false
+
+# Pagination
+paginate: 5
+paginate_path: "blog/page:num"
+
+# Portfolio
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:name
+
+# Build settings
+markdown: kramdown
+highligher: rouge
+sass:
+  sass_dir: _sass
+  style: :compressed
+theme: type-on-strap
+plugins: [jekyll-feed, jekyll-paginate, jekyll-seo-tag]
+exclude: ["Gemfile", "Gemfile.lock", "type-on-strap.gemspec", "*.gem", "LICENSE", "README.md", "screenshot.png"]
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
