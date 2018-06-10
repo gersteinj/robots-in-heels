@@ -4,6 +4,7 @@ title:    "Maker Ed, Tech Ed, and Industrial Arts"
 date:     2017-07-19 12:00:00 -0400
 header:
     image: "/assets/img/makerspace.jpg"
+    # teaser: "/assets/img/makerspace.jpg"
     # overlay_filter: .5
     caption: "UCMHS Makerspace"
 tags: [cte, education, maker ed]

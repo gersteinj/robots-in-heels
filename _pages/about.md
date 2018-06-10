@@ -2,6 +2,7 @@
 layout: single
 title: About
 permalink: /about/
+author_profile: true
 ---
 I’m a technology teacher at Union County Magnet High School, a STEM-focused magnet high school with Union County Vocational Technical Schools. My current courses are Intro to Programming, Advanced Manufacturing, Robotics, and Electric Vehicles.
 
