@@ -86,9 +86,10 @@ og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
+  type                   : Person # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - "https://twitter.com/robotsinheels"
 
 # Analytics
 analytics:
@@ -102,7 +103,7 @@ analytics:
 author:
   name             : "Jackie Gerstein"
   avatar           : "assets/img/gen/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Tech teacher and tinkerer"
+  bio              : "<p>Tech teacher and tinkerer</p><p>I obey the three rules of engineering:</p><ol><li>Always use the right tool for the job</li><li>The right tool is always a hammer</li><li>Anything can be a hammer</li></ol>"
   location         : "New Jersey"
   email            : "gersteinj@gmail.com"
   uri              :
@@ -125,7 +126,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          :
+  twitter          : "robotsinheels"
   vine             :
   weibo            :
   xing             :
