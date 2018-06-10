@@ -2,15 +2,13 @@
 layout:   post
 title:    "Maker Ed, Tech Ed, and Industrial Arts"
 date:     2017-07-19 12:00:00 -0400
-categories: CTE education maker-ed
-# excerpt: "Thoughts on CTE, technology education, industrial arts, and maker education."
-# image:
-#   feature: makerspace.jpg
-#   credit: Jackie Gerstein
-#   creditlink: http://robotsinheels.com
+feature-img: "assets/img/makerspace.jpg"
+thumbnail: "assets/img/makerspace.jpg"
+tags: [cte, education, maker ed]
+excerpt: "Back to blogging with thoughts on maker ed, CTE, and tech ed"
 ---
 Twitter brought me back to blogging with a question about maker ed and vocational education.
-
+<!--more-->
 <blockquote class="twitter-tweet" data-lang="en">
 <p dir="ltr" lang="en">Is maker education is new and improve version of vocational skills taught to students? I'm trying to find a reference point.</p>
 — Seane Clifton, Ed.S. (@koffe1_seane) <a href="https://twitter.com/koffe1_seane/status/886216799091654656">July 15, 2017</a></blockquote>
