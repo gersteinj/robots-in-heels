@@ -1,9 +1,11 @@
 ---
-layout:   post
+layout:   single
 title:    Social Responsibility at UCMHS
 date:     2017-08-18 12:00:00 -0400
-feature-img: "assets/img/pavan-emma.jpg"
-thumbnail: "assets/img/pavan-emma.jpg"
+header:
+    image: "assets/img/pavan-emma.jpg"
+    # overlay_filter: .5
+    caption: "Emma and Pavan working"
 tags:     [human-centered design, social responsibility, education, presentations, projects]
 excerpt: "Presentation from NJ Maker Summit about social responsiblity at UCMHS"
 ---
