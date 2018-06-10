@@ -21,14 +21,14 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 theme_settings:
   # Meta
   title:    Robots In Heels
-  avatar:   assets/img/avatar.jpg
+  avatar:   assets/img/gen/avatar.jpg
   favicon:  assets/favicon.ico
   gravatar: # email md5 hash
   description: Jackie Gerstein's website
 
   # Header and footer text
   header_text:  <p>Always use the right tool for the job.</p><p>The right tool is always a hammer.</p><p>Anything can be a hammer</p>
-  header_text_feature_image: assets/img/header.jpg
+  header_text_feature_image: assets/img/gen/header.jpg
   footer_text: Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap.</a> Header photo by <a href="https://unsplash.com/@mr_sherez">Adam Sherez</a> on <a href="https://unsplash.com/">Unsplash</a>
 
   # Icons
