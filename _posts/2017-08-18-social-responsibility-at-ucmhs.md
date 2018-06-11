@@ -1,9 +1,10 @@
 ---
-layout:   single
+layout:   post
 title:    Social Responsibility at UCMHS
 date:     2017-08-18 12:00:00 -0400
-header:
-    image: "assets/img/pavan-emma.jpg"
+image:
+    path: "assets/img/pavan-emma.jpg"
+    thumbnail: "assets/img/pavan-emma.jpg"
     # overlay_filter: .5
     caption: "Emma and Pavan working"
 tags:     [human-centered design, social responsibility, education, presentations, projects]
