@@ -15,7 +15,7 @@ I started my 100 day challenge with a useful build - a wall mounted phone stand.
 
 ![laser cut phone stand]({{ "/assets/img/hundred-day-challenge/laser-cut-phone-stand.jpg" }})
 
-You can find my SVG files [here]({{ site.url }}/downloads/robots-in-heels-phone-stand.zip)
+You can find my SVG files [here]({{ site.url }}/assets/downloads/robots-in-heels-phone-stand.zip)
 
 <!-- Licensing info -->
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Wall Mounted Phone Stand</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Jackie Gerstein</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
