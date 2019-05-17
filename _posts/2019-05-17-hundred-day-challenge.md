@@ -1,5 +1,7 @@
 ---
 layout:     post
+title:      "100 Day Maker Challenge"
+date:       2019-05-17 12:00:00 -0500
 ---
 abcdefgh
 <!-- 
