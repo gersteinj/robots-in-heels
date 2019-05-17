@@ -11,7 +11,7 @@ image:
     caption: "[Cesar Carlevarino Aragon at Unsplash](https://unsplash.com/photos/NL_DF0Klepc)"
 tags: [challenge, maker, 100 day challenge]
 ---
-I started my 100 day challenge with a useful build - a wall mounted phone stand. The slot in the bottom plate holds the USB cable when not in use so it isn't dangling.
+I started my 100 day challenge with a useful build - a wall mounted phone stand. The slot in the bottom plate holds the USB cable when not in use so it isn't dangling. I used 1/8" Baltic birch plywood from [Ocooch Hardwoods](http://ocoochhardwoods.com/) and a little bit of glue to make sure it stays together securely.
 
 ![laser cut phone stand]({{ "/assets/img/hundred-day-challenge/laser-cut-phone-stand.jpg" }})
 
