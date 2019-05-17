@@ -1,5 +1,7 @@
 ---
+layout:     post
 ---
+abcdefgh
 <!-- 
 layout:   post
 title:    "100 Day Maker Challenge"
