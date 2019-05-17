@@ -1,4 +1,4 @@
-
+---
 layout:   post
 title:    "100 Day Maker Challenge"
 image:
@@ -17,4 +17,4 @@ I'm back! A few days ago, I decided to challenge myself to make something every 
 * Day 4: Squid Earrings
 * Day 5: Map Pendant
 * Day 6: Nail Stamping Plates
-* Day 7: Pegboard Hooks -->
+* Day 7: Pegboard Hooks
