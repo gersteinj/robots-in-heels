@@ -1,12 +1,6 @@
----
-layout:     post
-title:      "100 Day Maker Challenge"
----
-abcdefgh
-<!-- 
+
 layout:   post
 title:    "100 Day Maker Challenge"
-date:     2019-05-17 12:00:00 -0500
 image:
     path: "https://source.unsplash.com/NL_DF0Klepc/800x300"
     thumbnail: "https://source.unsplash.com/NL_DF0Klepc/800x300"
