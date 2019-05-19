@@ -1,7 +1,7 @@
 ---
 layout:   post
 title:    "Maker Challenge Day 7: Pegboard Hooks"
-date:     2019-05-17 12:00:00 -0400
+date:     2019-05-16 12:00:00 -0400
 image:
     path: "https://source.unsplash.com/NL_DF0Klepc/800x300"
     thumbnail: "https://source.unsplash.com/NL_DF0Klepc/800x300"

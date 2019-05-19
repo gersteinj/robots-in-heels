@@ -15,7 +15,7 @@ The FSL rotary attachment isn't particularly well documented, but Hans Kahlert d
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r1-55hL4_DA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-So here's a picture of the finished glass:
+Here's a picture of the finished glass:
 
 ![engraved glass]({{ "/assets/img/hundred-day-challenge/engraved-glass.jpg" }})
 
