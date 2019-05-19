@@ -15,6 +15,8 @@ The FSL rotary attachment isn't particularly well documented, but Hans Kahlert d
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r1-55hL4_DA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+So here's a picture of the finished glass:
+
 ![engraved glass]({{ "/assets/img/hundred-day-challenge/engraved-glass.jpg" }})
 
 I created a few glasses with this design as a small end-of-school-year gift for a few colleagues who are RBG fans. The design itself was pretty easy to create. There's no interlocking, and it's all raster. The hardest part was drawing up the dissent collar - there are some great designs out there already, but I didn't find any available for use, so I made my own design.
