@@ -1,7 +1,7 @@
 ---
 layout:   post
 title:    "Maker Ed, Tech Ed, and Industrial Arts"
-date:     2017-07-19 12:00:00 -0400
+# date:     2017-07-19 12:00:00 -0400
 image:
     path: "/assets/img/makerspace.jpg"
     thumbnail: "/assets/img/makerspace.jpg"

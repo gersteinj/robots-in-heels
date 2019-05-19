@@ -1,7 +1,7 @@
 ---
 layout:   post
 title:    "100 Day Maker Challenge"
-date:     2019-05-09 12:00:00 -0400
+# date:     2019-05-09 12:00:00 -0400
 image:
     path: "https://source.unsplash.com/NL_DF0Klepc/800x300"
     thumbnail: "https://source.unsplash.com/NL_DF0Klepc/800x300"

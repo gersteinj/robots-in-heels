@@ -1,7 +1,7 @@
 ---
 layout:   post
 title:    "Maker Challenge Day 9: Engraved Glasses"
-date:     2019-05-18 19:00:00 -0400
+# date:     2019-05-18 19:00:00 -0400
 image:
     path: "https://source.unsplash.com/NL_DF0Klepc/800x300"
     thumbnail: "https://source.unsplash.com/NL_DF0Klepc/800x300"
