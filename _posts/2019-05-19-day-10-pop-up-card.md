@@ -11,7 +11,7 @@ tags: [challenge, maker, 100 day challenge]
 ---
 As a kid, I used to love making pop up cards with my mom. She was a huge fan of using technology in crafting, and I wish I could see what she'd do with the tools I have access to now.
 
-For today's project, I wanted to make a housewarming card for friends moving into a new apartment at the end of the month. They have 3 cats and a lot of plants, so I decided to incorporate those into the design. I started with a simple pop up card as a test (I haven't made any challenging pop up cards in years), but wrecked it before I had a chance to take a picture. Once I had a general idea of what I was doing, I sketched out a rough design of what I wanted and set up the artwork. The cats and plant are adapted from [The Noun Project](https://thenounproject.com/), as they would have taken too long for me to draw.
+For today's project, I wanted to make a housewarming card for friends moving into a new apartment at the end of the month. They have 3 cats and a lot of plants, so I decided to incorporate those into the design. I started with a simple pop up card as a test (I haven't made any challenging pop up cards in years), but wrecked it before I had a chance to take a picture. Once I had a general idea of what I was doing, I sketched out a rough design of what I wanted and set up the artwork. The cats and plant are adapted from [The Noun Project](https://thenounproject.com/), as they would have taken too long for me to draw. I found [this guide at Instructables](https://www.instructables.com/id/Popup-Cards-With-Laser-Cutter/) helpful for reviewing the structure of a pop up card.
 
 ![actual card]({{"/assets/img/hundred-day-challenge/pop-up-card.jpg"}})
 
