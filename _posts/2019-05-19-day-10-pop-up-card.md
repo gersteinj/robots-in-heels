@@ -13,9 +13,11 @@ As a kid, I used to love making pop up cards with my mom. She was a huge fan of 
 
 For today's project, I wanted to make a housewarming card for friends moving into a new apartment at the end of the month. They have 3 cats and a lot of plants, so I decided to incorporate those into the design. I started with a simple pop up card as a test (I haven't made any challenging pop up cards in years), but wrecked it before I had a chance to take a picture. Once I had a general idea of what I was doing, I sketched out a rough design of what I wanted and set up the artwork. The cats and plant are adapted from [The Noun Project](https://thenounproject.com/), as they would have taken too long for me to draw.
 
+![actual card]({{"/assets/img/hundred-day-challenge/pop-up-card.jpg"}})
+
 I did an initial rough layout in Illustrator to get a feel for what it would look like, and then I set up my cut and score lines. By barely cutting the fold lines, I was able to score them nicely for sharp folds. I used red lines for cuts and green lines for folds. I still have some improvements to make, such as not putting fold lines at the base of the cats, but overall it worked on only the second try!
 
-![preview of card layout]({{"/assets/img/hundred-day-challenge/pop-up-card.jpg"}})
+![preview of card layout]({{"/assets/img/hundred-day-challenge/housewarming.png"}})
 
 I still need to make a backing and finish the rest of the card, but the laser cut portion is ready to go.
 
