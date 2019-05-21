@@ -13,7 +13,7 @@ Continuing my efforts to avoid making useless things just to fill up a slot in t
 
 ![pyportal in stand]({{"/assets/img/hundred-day-challenge/pyportal-stand.jpg"}})
 
-I'm definitely going to be making an improved version of this one. My goal was to have an adjustable-angle stand for my PyPortal, but the geometry of the base and supports are off a bit. I reused the base assembly as the support, and it turned out to be much too long. Still, it works for now and will keep they PyPortal safer than not having a case of any sort.
+I'm definitely going to be making an improved version of this one. My goal was to have an adjustable-angle stand for my PyPortal, but the geometry of the base and supports are off a bit. I reused the base assembly as the support, and it turned out to be much too long. Still, it works for now and will keep they PyPortal safer than not having a case of any sort. In the next version, I'll be making the support fold over the front to act as a protective cover for the screen.
 
 To make the design, I started with [Adafruit's CAD repository](https://github.com/adafruit/Adafruit_CAD_Parts). I modeled up the pieces of the case based on the model of the board, and then added the hinges and support/base to make the stand self-supporting and relatively compact.  
 
