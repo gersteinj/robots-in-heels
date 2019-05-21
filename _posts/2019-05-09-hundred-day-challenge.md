@@ -21,4 +21,4 @@ A few days ago, I decided to challenge myself to make something every day for 10
 * Day 8: [Remote Holder]({% link _posts/2019-05-17-day-8-remote-holder.md %})
 * Day 9: [Engraved Glasses]({% link _posts/2019-05-18-day-9-engraved-glasses.md %})
 * Day 10: [Housewarming Card]({% link _posts/2019-05-19-day-10-pop-up-card.md %})
-* Day 11: [PyPortal Stand]({% link _posts/2019-05-20-day-11-pyportal-stand.md %})
+<!-- * Day 11: [PyPortal Stand]({% link _posts/2019-05-20-day-11-pyportal-stand.md %}) -->
