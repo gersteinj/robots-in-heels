@@ -11,7 +11,7 @@ source "https://rubygems.org"
 gem "jekyll", "~> 3.7.2"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
-gem "minima", "~> 2.0"
+# gem "minima", "~> 2.0"
 # gem 'type-on-strap', '~> 0.6.0'
 # gem 'beautiful-jekyll-theme', '~> 1.1', '>= 1.1.1'
 # gem "minimal-mistakes-jekyll"
