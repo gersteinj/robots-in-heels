@@ -13,7 +13,7 @@ This design was drawn up by a friend who wanted a better, non-porous bathroom pa
 
 ![bathroom pass]({{"/assets/img/hundred-day-challenge/hall-pass.jpg"}})
 
-This one's pretty simple, so I don't have much to say about it. I won't be providing the file for download, since it's not my design to give away.
+This one's pretty simple, just raster engraving and cutting up a shape. The design itself isn't mine, so I can't give you the file for it.
 
 Materials:
 
