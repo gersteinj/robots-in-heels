@@ -20,4 +20,4 @@ Materials:
 * Card stock (I used 65 lb because I had it, but I suspect heavier would be better)
 * Tacky glue
 
-If you'd like, you can download my file as PDF [here]({{ site.url }}/assets/downloads/robots-in-heels-card-holder.zip).
+If you'd like, you can download my file as PDF [here]({{ site.url }}/assets/downloads/robots-in-heels-card-holder.pdf).
