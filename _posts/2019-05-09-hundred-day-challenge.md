@@ -28,5 +28,6 @@ A few days ago, I decided to challenge myself to make something every day for 10
 * Day 15: [Bathroom Pass]({% link _posts/2019-05-24-day-15-hall-pass.md %})
 * Day 16: [Acrylic Inlay Box]({% link _posts/2019-05-25-day-16-acrylic-inlay-box.md %})
 * Day 17: [Ladder Holder]({% link _posts/2019-05-26-day-17-ladder-holder.md %})
-* Day 18: [Business Card Holder]({% link _posts/2019-05-26-day-17-ladder-holder.md %})
+* Day 18: [Business Card Holder]({% link _posts/2019-05-27-day-18-business-card-holder.md %})
+* Day 19: [Bookmark]({% link _posts/2019-05-28-day-19-bookmark.md %})
 
