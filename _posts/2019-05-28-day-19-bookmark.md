@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "Maker Challenge Day 18: Business Card Holder"
+title:    "Maker Challenge Day 19: Bookmark"
 # date:     2019-05-18 19:00:00 -0400
 image:
     path: "/assets/img/hundred-day-challenge/day-19/bookmark.jpg"
