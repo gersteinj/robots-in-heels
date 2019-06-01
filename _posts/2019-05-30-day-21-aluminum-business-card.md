@@ -11,4 +11,4 @@ tags: [challenge, maker, 100 day challenge]
 ---
 My husband and I will be going to a conference together this summer. He wanted unique business cards, so he picked up anodized aluminum business cards and I handled the drawings. The picture here is a sample - the finished card has his name and contact info, but this one has no personal information on it so I can share photos.
 
-![laserbeard]({{"/assets/img/hundred-day-challenge/day-18/closed.jpg"}})
+![laserbeard]({{"/assets/img/hundred-day-challenge/laserbeard.jpg"}})
