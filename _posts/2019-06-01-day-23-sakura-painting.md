@@ -9,7 +9,7 @@ image:
     # caption: "[Cesar Carlevarino Aragon at Unsplash](https://unsplash.com/photos/NL_DF0Klepc)"
 tags: [challenge, maker, 100 day challenge]
 ---
-I recently decided to start building a Space Marines army for Warhammer 40k. It's a very grim, very dark setting, and it's reflected in the paint schemes and chapter names. For those who don't play, a few examples of canon chapter names are "Blood Angels", "Dark Angels", "Imperial Fists", "World Eaters", and "Death Guard". The paint schemes feature a lot of red, black, and dark blue. I painted mine pastel and floral instead, because it was fun.
+I recently decided to start building a Space Marines army for Warhammer 40k. It's a very grim, very dark setting, and it's reflected in the paint schemes and chapter names. For those who don't play, a few examples of canon chapter names are "Blood Angels", "Dark Angels", "Imperial Fists", "World Eaters", and "Death Guard". The paint schemes feature a lot of red, black, and dark blue. I painted mine pastel and floral instead, because it was fun. The color scheme was the result of a cherry blossom falling on the big model as I was priming it.
 
 ![space marines model]({{"/assets/img/hundred-day-challenge/day-23/models.jpg"}})
 
