@@ -1,12 +1,10 @@
 ---
-layout:   post
+layout: single
 title:    "Maker Ed, Tech Ed, and Industrial Arts"
 # date:     2017-07-19 12:00:00 -0400
-image:
-    path: "/assets/img/makerspace.jpg"
-    thumbnail: "/assets/img/makerspace.jpg"
-    # teaser: "/assets/img/makerspace.jpg"
-    # overlay_filter: .5
+header:
+    image: "/assets/img/makerspace.jpg"
+    teaser: "/assets/img/makerspace.jpg"
     caption: "UCMHS Makerspace"
 tags: [cte, education, maker ed]
 excerpt: "Back to blogging with thoughts on maker ed, CTE, and tech ed"

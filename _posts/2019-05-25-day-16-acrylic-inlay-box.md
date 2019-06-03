@@ -1,10 +1,10 @@
 ---
-layout:   post
+layout: single
 title:    "Maker Challenge Day 16: Acrylic Inlays"
 # date:     2019-05-18 19:00:00 -0400
-image:
-    path: "/assets/img/hundred-day-challenge/day-16/first-attempt.jpg"
-    thumbnail: "/assets/img/hundred-day-challenge/day-16/first-attempt.jpg"
+header:
+    image: "/assets/img/hundred-day-challenge/day-16/first-attempt.jpg"
+    teaser: "/assets/img/hundred-day-challenge/day-16/first-attempt.jpg"
     # overlay_filter: .5
     # caption: "[Cesar Carlevarino Aragon at Unsplash](https://unsplash.com/photos/NL_DF0Klepc)"
 tags: [challenge, maker, 100 day challenge]

@@ -1,10 +1,11 @@
 ---
-layout:   post
+layout: single
 title:    "Maker Challenge Day 20: Popup Card 2"
 # date:     2019-05-18 19:00:00 -0400
-image:
-    path: "/assets/img/hundred-day-challenge/day-20/stair-card.jpg"
-    thumbnail: "/assets/img/hundred-day-challenge/day-20/stair-card.jpg"
+header:
+    image: /assets/img/hundred-day-challenge/day-20/stair-card.jpg
+    teaser: /assets/img/hundred-day-challenge/day-20/stair-card.jpg
+    # thumbnail: "/assets/img/hundred-day-challenge/day-20/stair-card.jpg"
     # overlay_filter: .5
     # caption: "[Cesar Carlevarino Aragon at Unsplash](https://unsplash.com/photos/NL_DF0Klepc)"
 tags: [challenge, maker, 100 day challenge]
