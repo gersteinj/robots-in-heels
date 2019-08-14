@@ -7,7 +7,7 @@ header:
     teaser: "/assets/img/makerspace.jpg"
     caption: "UCMHS Makerspace"
 tags: [cte, education, maker ed]
-excerpt: "Back to blogging with thoughts on maker ed, CTE, and tech ed"
+excerpt: "Back to blogging with thoughts on maker ed and tech ed"
 ---
 Twitter brought me back to blogging with a question about maker ed and vocational education.
 <!--more-->
